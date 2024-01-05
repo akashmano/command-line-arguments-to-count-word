@@ -27,8 +27,8 @@ PROGRAM:
 ```
 '''
 python program for getting the word count from the contents of a file using command line arguments.
-Develpoed By: Keerthika N
-RegisterNumber:21000385
+Develpoed By: akash.m
+RegisterNumber:23004227
 '''
 import sys
 fp=open(sys.argv[1])
